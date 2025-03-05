@@ -6,9 +6,9 @@ See [demo.png](https://github.com/goliath-dynamics/git-commit-histogram/blob/mai
 
 ## Why
 
-Activity histograms are a great way to see user's code contributions.  While number of lines of code or number of commits are not a quantitative determinant of performance, activity histograms are incredibly useful to provide transparency on who is getting work done and who isn't.  Especially in remote companies, this becomes imperative to check up on.
+Activity histograms are a great way to see users' code contributions.  While number of lines of code or number of commits are not a quantitative determinant of performance, activity histograms are incredibly useful to provide transparency on who is getting work done and who isn't.  Especially in remote companies, this becomes imperative to check up on.
 
-Github already has individual user histograms, but other repo managers often don't (cough, BitBucket, cough).  This package doesn't concern itself as to which platform you're using.
+Not all repo viewers have histograms, some only have them individually by user, and others take very long to load.  This package doesn't concern itself as to which platform you're using as you can use it in any git repo.
 
 Also, this allows team leads to get a better overview of the entire repo, all users on one page.  Team managers can use this to check in on whether devs are actually committing code.  Teams can also use it as social pressure to get the underperformers to see how much more weight others are pulling.
 
